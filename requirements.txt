@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+mitiq
+numpy
+matplotlib
+python-dotenv
