@@ -1,3 +1,5 @@
+Hey suyash here! again with a project but this time it is a QC project with NISQ hardware and noises !
+
 Noise-Aware Quantum Circuit Layout Optimization Using Backend Calibration and Hybrid Fidelity–Depth Decision Metrics for NISQ Systems
 
 Abstract
